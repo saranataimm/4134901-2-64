@@ -147,3 +147,4 @@ console.log(firstIndex);
 const alphabet = "ABCDEF";
 let arrAlph = Array.from(alphabet);
 console.log(arrAlph);
+///hello

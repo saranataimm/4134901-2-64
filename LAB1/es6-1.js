@@ -85,5 +85,5 @@ let multiAdd = (a, b) => {
 console.log(addEs6(10, 5));
 console.log(multiAdd(4, 2));
 
-//
+//hello
 
