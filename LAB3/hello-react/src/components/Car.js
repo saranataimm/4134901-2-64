@@ -1,7 +1,9 @@
 import React from "react";
 
 //stateful
-class Wheel extends React.Component{
+const wheel = [2, 4, 6, 8, 10];
+
+class Wheel extends React.Component {
     render() {
         return <p>I have 4 wheel.</p>;
     }
@@ -12,8 +14,9 @@ class Car extends React.Component {
       super(props);
       this.state = { brand: "Toyota" };
     }
-    changeBrand = ()=>{
+    changeBrand = (msg)=>{
         this.setState({brand: "Mazda" });
+        alert(msg);
     };
     render(){
       return (
@@ -24,7 +27,7 @@ class Car extends React.Component {
                 <br />
                 Eye color is {this.props.eye}
             </p>
-            <button onClick={this.changeBrand}>Click Me !!</button> 
+            <button onClick={() => this.changeBrand("Hi !!")}>Click Me !!</button> 
         </>
       );
     }
