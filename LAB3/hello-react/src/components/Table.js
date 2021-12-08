@@ -29,4 +29,6 @@ const brandNames = [
   </table>;
 }
 
+
 export default DataTable;
+// 
