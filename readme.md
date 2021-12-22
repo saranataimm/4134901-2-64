@@ -6,7 +6,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 
 ### นายสรณไตร ไขลี
 
-![นายสรณไตร ไขลี](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.18169-9/16473680_1016230861842082_4001547838178557864_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF-EF32JnL2SA1o0vG3CsTywlT65eJsUYHCVPrl4mxRgfL4vof2xuKb3J640QcGHd-1Fg1Nx3SIA37AD4RZEctk&_nc_ohc=x7MIDcLpd4EAX_ptzYb&_nc_ht=scontent.fbkk10-1.fna&oh=cb60508933d09f559eb134d5d12ef432&oe=61C25B9E)
+![นายสรณไตร ไขลี](https://scontent.fbkk2-3.fna.fbcdn.net/v/t1.18169-9/16473680_1016230861842082_4001547838178557864_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF-EF32JnL2SA1o0vG3CsTywlT65eJsUYHCVPrl4mxRgfL4vof2xuKb3J640QcGHd-1Fg1Nx3SIA37AD4RZEctk&_nc_ohc=0CmLqb2RZ0oAX8Iwkjs&_nc_ht=scontent.fbkk2-3.fna&oh=00_AT_0pAa2Dkl63X8Ppb_qkoas3DnyC_nZSS4k1BQlFn4ICA&oe=61E9E89E)
 >รหัสนักศึกษา 610112418029
 
 ###Link LAB
