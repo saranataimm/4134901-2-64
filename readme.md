@@ -18,8 +18,8 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 [LAB7](https://github.com/saranataimm/4134901-2-64/tree/master/LAB7)
 
 ###RUN
-**LAB1**
-[finallab]https://github.com/saranataimm/finallab[Filnallab]
+**LAB1**.
+[finallab]https://github.com/saranataimm/finallab
 
 > npm install
 ```
