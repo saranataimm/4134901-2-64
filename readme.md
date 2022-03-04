@@ -16,7 +16,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 [LAB4](https://github.com/saranataimm/4134901-2-64/commit/65b33b8ecbd1df1749c516ec9e623ace1a134baf)
 [LAB6](https://github.com/saranataimm/4134901-2-64/tree/master/LAB6)
 [LAB7](https://github.com/saranataimm/4134901-2-64/tree/master/LAB7)
-
+[Linallab]https://github.com/saranataimm/finallab[Filnallab]
 ###RUN
 **LAB1**
 
